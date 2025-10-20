@@ -1,0 +1,33 @@
+# Development and test files
+test-*.js
+*.test.js
+*.spec.js
+
+# Documentation (keep README.md, QUICKSTART.md, MIGRATION_GUIDE.md)
+IMPLEMENTATION_NOTES.md
+CONCURRENCY_FIX.md
+LOCAL_TESTING.md
+BACKUP_GUIDE.md
+UPGRADE_GUIDE.md
+PRODUCTION_DEPLOYMENT.md
+
+# Git
+.git
+.gitignore
+.gitattributes
+
+# IDE
+.vscode
+.idea
+*.code-workspace
+.DS_Store
+
+# Logs
+*.log
+npm-debug.log*
+
+# Build artifacts
+dist
+build
+.cache
+
