@@ -2,6 +2,16 @@
 
 All notable changes to this project will be documented in this file.
 
+## [2.0.1] - 2025-10-20
+
+### Changed
+- Removed legacy tapo-s220 node (use tapo-switch instead)
+- Cleaned up all logging (errors only, removed debug/info spam)
+- Clean git history for professional appearance
+
+### Fixed
+- Package metadata improvements
+
 ## [2.0.0] - 2025-10-19
 
 ### Added
